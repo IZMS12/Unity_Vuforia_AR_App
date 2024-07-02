@@ -3,7 +3,7 @@ This project explores the potential of Augmented Reality (AR) in enhancing histo
 
 Key Features:
 
-Interactive 3D models of Sunway University landmarks.
-User-friendly mobile application developed with Unity and Vuforia.
-Detailed survey data analysis on user experience and educational impact.
-Insights into the potential of AR for enhancing historical engagement.
+- Interactive 3D models of Sunway University landmarks.
+- User-friendly mobile application developed with Unity and Vuforia.
+- Detailed survey data analysis on user experience and educational impact.
+- Insights into the potential of AR for enhancing historical engagement.
